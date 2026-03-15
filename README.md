@@ -7,9 +7,9 @@ Este projeto consiste na criação de um painel de controle responsivo, desenvol
 
 De acordo com o roteiro da atividade, o projeto foca em dois pilares principais do CSS:
 
-1.  [cite_start]**Transições e Animações**: Técnicas que criam efeitos visuais fluidos para melhorar a experiência do usuário[cite: 6, 7].
-    * [cite_start]**Transição**: Utilizada para suavizar mudanças de propriedades como cores e tamanhos[cite: 11, 13].
-    * [cite_start]**Animação**: Utiliza `@keyframes` para definir movimentos complexos e estados iniciais/finais[cite: 27, 33].
+1.  **Transições e Animações**: Técnicas que criam efeitos visuais fluidos para melhorar a experiência do usuário
+    **Transição**: Utilizada para suavizar mudanças de propriedades como cores e tamanhos
+     **Animação**: Utiliza `@keyframes` para definir movimentos complexos e estados iniciais/finais
 
 ## 🛠️ Requisitos Implementados
 
