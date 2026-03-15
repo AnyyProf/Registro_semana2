@@ -1,7 +1,7 @@
 # Registro_semana2 Programação front end
-# 🚀 Atividade Prática: Layout Dinâmico com Flexbox, Grid e Animações
+** 🚀 Atividade Prática: Layout Dinâmico com Flexbox, Grid e Animações**
 
-Este projeto consiste na criação de um painel de controle responsivo, desenvolvido como parte da atividade prática de Web Design. [cite_start]O objetivo é aplicar conceitos de posicionamento estrutural e interatividade visual[cite: 4, 46].
+Este projeto consiste na criação de um painel de controle responsivo, desenvolvido como parte da atividade prática de Web Design.O objetivo é aplicar conceitos de posicionamento estrutural e interatividade visual
 
 ## 📘 Contexto Técnico
 
