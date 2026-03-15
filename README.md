@@ -1,2 +1,35 @@
 # Registro_semana2 Programação front end
-🚀 Atividade Prática: Layout Dinâmico com Flexbox, Grid e AnimaçõesEste projeto consiste na criação de um painel de controle responsivo, explorando técnicas avançadas de CSS para melhorar a experiência do usuário.📋 Contexto Técnico🎨 Transições e AnimaçõesTransições e animações são técnicas que permitem criar efeitos visuais fluidos em elementos da página web.Transição: Utilizada para especificar quais propriedades CSS devem ser animadas (ex: background-color).Animação: Utiliza a regra @keyframes para definir estados da animação e a propriedade animation para aplicá-la.🛠️ Requisitos da AtividadeA estrutura da página foi desenvolvida seguindo os seguintes critérios:Estrutura HTML: Um contêiner principal dividido em menu lateral, cabeçalho e conteúdo principal.Grid Layout: Utilizado para a organização espacial dessas três seções principais.Flexbox: Aplicado no menu lateral para o alinhamento vertical dos itens e no cabeçalho para distribuição de elementos.Interatividade:Transição suave de cor no botão do cabeçalho ao passar o mouse (hover).Animação de entrada (slideIn) para as caixas de conteúdo no carregamento da página.💻 Estrutura do CódigoDefinições de Layout (CSS)O projeto utiliza propriedades modernas para garantir a responsividade:PropriedadeFunçãodisplay: gridDefine a malha principal do site.grid-template-areasNomeia as áreas de exibição (menu, cabeçalho, principal).display: flexAlinha elementos internos de forma flexível.@keyframesCria a lógica de movimento das caixas de conteúdo.📦 Materiais UtilizadosComputador com acesso à Internet.Caderno e caneta para anotações.Editor de código (HTML/CSS).
+# 🚀 Atividade Prática: Layout Dinâmico com Flexbox, Grid e Animações
+
+Este projeto consiste na criação de um painel de controle responsivo, desenvolvido como parte da atividade prática de Web Design. [cite_start]O objetivo é aplicar conceitos de posicionamento estrutural e interatividade visual[cite: 4, 46].
+
+## 📘 Contexto Técnico
+
+De acordo com o roteiro da atividade, o projeto foca em dois pilares principais do CSS:
+
+1.  [cite_start]**Transições e Animações**: Técnicas que criam efeitos visuais fluidos para melhorar a experiência do usuário[cite: 6, 7].
+    * [cite_start]**Transição**: Utilizada para suavizar mudanças de propriedades como cores e tamanhos[cite: 11, 13].
+    * [cite_start]**Animação**: Utiliza `@keyframes` para definir movimentos complexos e estados iniciais/finais[cite: 27, 33].
+
+## 🛠️ Requisitos Implementados
+
+[cite_start]A aplicação foi construída seguindo rigorosamente os seguintes requisitos[cite: 54]:
+
+### 🧱 Estrutura e Layout
+* [cite_start]**Contêiner Principal**: Criado com três seções distintas: menu lateral, cabeçalho e conteúdo principal[cite: 56].
+* [cite_start]**Grid Layout**: Utilizado para organizar o posicionamento global dessas três seções[cite: 58].
+* **Flexbox**: 
+    * [cite_start]Aplicado no **Menu Lateral** para alinhar os itens da lista verticalmente[cite: 63].
+    * [cite_start]Aplicado no **Cabeçalho** para distribuir o título e o botão[cite: 60].
+
+### 🎬 Efeitos e Interatividade
+* [cite_start]**Transição de Botão**: O botão no cabeçalho possui uma transição suave de cor ao passar o mouse (`hover`)[cite: 65].
+* [cite_start]**Animação de Entrada**: As três caixas de conteúdo principal deslizam para dentro da página ao carregar, utilizando a regra `@keyframes slideIn`[cite: 61, 66].
+
+## 📂 Materiais e Ferramentas
+* [cite_start]Computador com Internet[cite: 51].
+* Editor de Código (VS Code ou similar).
+* Navegador para testes.
+
+---
+[cite_start]*Este registro foi realizado conforme as orientações do Roteiro de Atividade Prática.*[cite: 49].
